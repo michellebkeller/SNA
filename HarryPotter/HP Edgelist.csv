@@ -1,0 +1,16 @@
+from,to,weight
+HP,HG,1
+HP,RW,1
+HP,RH,2
+HP,H,1
+HP,AD,2
+HP,D,2
+HP,DM,3
+HG,RW,1
+HG,RH,2
+HG,DM,3
+RW,RH,2
+RW,DM,3
+RH,H,3
+RH,AD,1
+D,DM,3
